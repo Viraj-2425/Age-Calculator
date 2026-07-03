@@ -5,6 +5,7 @@ This project is beginner-friendly and demonstrates the use of Python's `datetime
 
 
 ## 📌 Features
+
 - Calculate age from date of birth
 - Displays age in years
 - Easy-to-use command-line interface
