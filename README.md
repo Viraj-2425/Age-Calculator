@@ -13,7 +13,3 @@ This project is beginner-friendly and demonstrates the use of Python's `datetime
 - Python 3
 - Datetime Module
 
-## 🛠️ Technologies Used
-- Python 3
-- Datetime Module
-
